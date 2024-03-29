@@ -1,0 +1,4 @@
+repository "VR Video@h1905659226@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
